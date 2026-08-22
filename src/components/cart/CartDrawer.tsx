@@ -15,6 +15,7 @@ export function CartDrawer() {
     removeFromCart,
     updateQuantity,
     subtotal,
+    shippingFee,
     grandTotal,
     discountAmount,
     coupon,
